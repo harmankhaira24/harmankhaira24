@@ -2,8 +2,8 @@
 Hi, I'm Harmanjit Kaur Khaira 👋<br>Currently pursuing B.Tech CSE at LPU, <br>driven by curiosity and a constant desire to learn, explore, and grow.
 
 ## 🌐 Socials:
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harman Khaira) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32796282) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harmankhaira) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32796282) 
 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harmanjitkaurkhaira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Harmankhaira20)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harmankhaira202114@gmail.com) 
 
