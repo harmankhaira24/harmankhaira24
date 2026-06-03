@@ -6,10 +6,6 @@ Hi, I'm Harmanjit Kaur Khaira 👋<br>Currently pursuing B.Tech CSE at LPU, <br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32796282) 
 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harmanjitkaurkhaira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Harmankhaira20)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harmankhaira202114@gmail.com) 
-<p align="left">
-<a href="https://www.leetcode.com/harmankhaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harmankhaira" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harmankhaira2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harmankhaira2468" height="30" width="40" /></a>
-</p>
 
 
 # 💻 Tech Stack:
